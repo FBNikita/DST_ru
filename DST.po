@@ -3441,12 +3441,12 @@ msgstr "Магмовые Дротики"
 #. STRINGS.NAMES.LAVAARENA_ARMOREXTRAHEAVY
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMOREXTRAHEAVY"
 msgid "Steadfast Stone Armor"
-msgstr "Стабильный каменный доспех"
+msgstr "Стойкие Каменные Латы"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORHEAVY
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORHEAVY"
 msgid "Stone Splint Mail"
-msgstr "Расколотый каменный доспех"
+msgstr "Каменная Кольчуга"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORLIGHT
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORLIGHT"
@@ -3456,7 +3456,7 @@ msgstr "Тростниковая туника"
 #. STRINGS.NAMES.LAVAARENA_ARMORLIGHTSPEED
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORLIGHTSPEED"
 msgid "Feathered Reed Tunic"
-msgstr "Пернатая тростниковая Туника"
+msgstr "Пернатая Тростниковая Туника"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORMEDIUM
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORMEDIUM"
@@ -3466,12 +3466,12 @@ msgstr "Деревянная броня"
 #. STRINGS.NAMES.LAVAARENA_ARMORMEDIUMDAMAGER
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORMEDIUMDAMAGER"
 msgid "Jagged Wood Armor"
-msgstr "Зубчатая деревянная броня"
+msgstr "Зазубренная Деревянная Броня"
 
 #. STRINGS.NAMES.LAVAARENA_ARMORMEDIUMRECHARGER
 msgctxt "STRINGS.NAMES.LAVAARENA_ARMORMEDIUMRECHARGER"
 msgid "Silken Wood Armor"
-msgstr "Обвязаная деревянная броня"
+msgstr "Обвязанный Шёлком Деревянный Доспех"
 
 #. STRINGS.NAMES.LAVAARENA_BATTLESTANDARD
 msgctxt "STRINGS.NAMES.LAVAARENA_BATTLESTANDARD"
@@ -3991,7 +3991,7 @@ msgstr "Я Полководец Пугна, и я защищаю то, что п
 #. STRINGS.BOARLORD_WELCOME_INTRO.5
 msgctxt "STRINGS.BOARLORD_WELCOME_INTRO.5"
 msgid "Warriors. Release the pigs!"
-msgstr "Воины. Освободите свиней!"
+msgstr "Войны. Освободите свиней!"
 
 #. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3
 msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.3"
@@ -4006,7 +4006,7 @@ msgstr "Больше свиней!"
 #. STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1
 msgctxt "STRINGS.BOARLORD_ROUND1_FIGHT_BANTER.1"
 msgid "It's good to have a challenge once again!"
-msgstr "Хорошо снова получить вызов!"
+msgstr "Приятно снова получить вызов!"
 
 #. STRINGS.BOARLORD_ROUND1_END.1
 msgctxt "STRINGS.BOARLORD_ROUND1_END.1"
@@ -4031,12 +4031,12 @@ msgstr "За Горнило!"
 #. STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2
 msgctxt "STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.2"
 msgid "Give the Gatekeepers no quarter!"
-msgstr "Не дайте Странникам ни четверти!"
+msgstr "Не дайте Странникам шанса!"
 
 #. STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3
 msgctxt "STRINGS.BOARLORD_ROUND2_FIGHT_BANTER.3"
 msgid "Fly your banners proudly, warriors!"
-msgstr "Несите свои знамёна с городостью, войны!"
+msgstr "Несите свои Штандарты с городостью, войны!"
 
 #. STRINGS.BOARLORD_ROUND2_END.1
 msgctxt "STRINGS.BOARLORD_ROUND2_END.1"
@@ -4061,7 +4061,7 @@ msgstr "А теперь. Хрюкопахи. Атакуйте!"
 #. STRINGS.BOARLORD_ROUND3_END.1
 msgctxt "STRINGS.BOARLORD_ROUND3_END.1"
 msgid "...Do you understand the forces you serve?"
-msgstr "...Вы понимаете силы, которым вы служите?"
+msgstr "...Вы понимаете, кому вы служите?"
 
 #. STRINGS.BOARLORD_ROUND3_END.2
 msgctxt "STRINGS.BOARLORD_ROUND3_END.2"
@@ -4181,7 +4181,7 @@ msgstr "Горнило"
 #. STRINGS.UI.WXPLOBBYPANEL.NEWBOX_BODY
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.NEWBOX_BODY"
 msgid "Visit the Treasury to open your chest"
-msgstr "Посети Сокровища чтобы открыть твой сундук"
+msgstr "Посети Сокровища, чтобы открыть твой сундук"
 
 #. STRINGS.UI.WXPLOBBYPANEL.NEWBOXES_TITLE
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.NEWBOXES_TITLE"
@@ -4236,7 +4236,7 @@ msgstr "Победа!"
 #. STRINGS.UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY
 msgctxt "STRINGS.UI.MYSTERYBOXSCREEN.OUT_OF_BOXES_BODY"
 msgid "You have no chests in your treasury.\nStart playing to earn some!"
-msgstr "У тебя нету ни одного сокровища.\nНачни играть чтобы получить их!"
+msgstr "У тебя нет ни одного сокровища.\nНачни играть, чтобы получить их!"
 
 #. STRINGS.UI.MYSTERYBOXSCREEN.BOXES
 msgctxt "STRINGS.UI.MYSTERYBOXSCREEN.BOXES"
@@ -4281,7 +4281,7 @@ msgstr "Купить за {price}"
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_all"
 msgid "This Forge Chest contains every survivor's complete set of Gladiator skin items."
-msgstr "Этот Сундук Горнила содержит комплект вещей гладиатора для всех выживших."
+msgstr "Этот Сундук Горнила содержит комплект вещей гладиатора для всех Выживших."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wathgrithr"
@@ -4336,7 +4336,8 @@ msgstr "Этот Сундук Горнила содержит комплект �
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_woodie"
 msgid "This Forge Chest contains Woodie's complete set of Gladiator skin items."
-Горнила
+msgstr "Этот Сундук Горнила содержит комплект вещей гладиатора для Вуди."
+
 #. STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_gladiator_wx78"
 msgid "This Forge Chest contains WX-78's complete set of Gladiator skin items."
@@ -4355,12 +4356,12 @@ msgstr "Боевой Сундук Вигфрид"
 #. STRINGS.SKIN_NAMES.pack_gladiator_waxwell
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_waxwell"
 msgid "Maxwell Forge Chest"
-msgstr "Боевой Сундук Максвелл"
+msgstr "Боевой Сундук Максвелла"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_webber
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_webber"
 msgid "Webber Forge Chest"
-msgstr "Боевой Сундук Веббер"
+msgstr "Боевой Сундук Веббера"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_wendy
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wendy"
@@ -4370,7 +4371,7 @@ msgstr "Боевой Сундук Венди"
 #. STRINGS.SKIN_NAMES.pack_gladiator_wes
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wes"
 msgid "Wes Forge Chest"
-msgstr "Боевой Сундук Вэс"
+msgstr "Боевой Сундук Вэса"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wickerbottom"
@@ -4385,17 +4386,17 @@ msgstr "Боевой Сундук Уиллоу"
 #. STRINGS.SKIN_NAMES.pack_gladiator_wilson
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wilson"
 msgid "Wilson Forge Chest"
-msgstr "Боевой Сундук Уилсон"
+msgstr "Боевой Сундук Уилсона"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_winona
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_winona"
 msgid "Winona Forge Chest"
-msgstr "Боевой Сундук Винона"
+msgstr "Боевой Сундук Виноны"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_wolfgang
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_wolfgang"
 msgid "Wolfgang Forge Chest"
-msgstr "Боевой Сундук Вольфганг"
+msgstr "Боевой Сундук Вольфганга"
 
 #. STRINGS.SKIN_NAMES.pack_gladiator_woodie
 msgctxt "STRINGS.SKIN_NAMES.pack_gladiator_woodie"
@@ -4545,7 +4546,7 @@ msgstr "Тело"
 #. STRINGS.UI.WARDROBESCREEN.FEET
 msgctxt "STRINGS.UI.WARDROBESCREEN.FEET"
 msgid "Feet"
-msgstr "Обувь"
+msgstr "Ступни"
 
 #. STRINGS.UI.WARDROBESCREEN.HAND
 msgctxt "STRINGS.UI.WARDROBESCREEN.HAND"
@@ -4555,7 +4556,7 @@ msgstr "Руки"
 #. STRINGS.UI.WARDROBESCREEN.LEGS
 msgctxt "STRINGS.UI.WARDROBESCREEN.LEGS"
 msgid "Legs"
-msgstr "Штаны"
+msgstr "Ноги"
 
 #. STRINGS.UI.WARDROBESCREEN.RESET
 msgctxt "STRINGS.UI.WARDROBESCREEN.RESET"
@@ -4565,12 +4566,12 @@ msgstr "Отменить Изменения"
 #. STRINGS.UI.WARDROBESCREEN.SHOW_ALL_CLOTHING
 msgctxt "STRINGS.UI.WARDROBESCREEN.SHOW_ALL_CLOTHING"
 msgid "Survivor Filter Off"
-msgstr "Уцелевший: Нет"
+msgstr "Вещи Всех Героев"
 
 #. STRINGS.UI.WARDROBESCREEN.SHOW_HERO_CLOTHING
 msgctxt "STRINGS.UI.WARDROBESCREEN.SHOW_HERO_CLOTHING"
 msgid "Survivor Filter On"
-msgstr "Уцелевший: Да"
+msgstr "Вещи Этого Героя"
 
 #. STRINGS.UI.WARDROBESCREEN.SHOW_UNOWNEDANDOWNED_CLOTHING
 msgctxt "STRINGS.UI.WARDROBESCREEN.SHOW_UNOWNEDANDOWNED_CLOTHING"
@@ -4660,7 +4661,7 @@ msgstr "Винона"
 #. STRINGS.UI.COLLECTIONSCREEN.LOADERS
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.LOADERS"
 msgid "Vignettes"
-msgstr "Загрузочные экраны"
+msgstr "Виньетки"
 
 #. STRINGS.UI.COLLECTIONSCREEN.NEW
 msgctxt "STRINGS.UI.COLLECTIONSCREEN.NEW"
@@ -4715,7 +4716,7 @@ msgstr "Обменяй свои старые вещи на что-то нове�
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
 msgid "View missed connections and revisit past lives"
-msgstr "Посмотри на плохое соединение и прошлые жизни"
+msgstr "Просмотри свои предыдущие игры"
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
@@ -4770,7 +4771,7 @@ msgstr "СЛЕДУЮЩИЙ УРОВЕНЬ НА"
 #. STRINGS.UI.WXPLOBBYPANEL.WXP
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.WXP"
 msgid "XP"
-msgstr "Опыт"
+msgstr "ОПЫТ"
 
 #. STRINGS.UI.WXPLOBBYPANEL.WXP_CURRENT_XP
 msgctxt "STRINGS.UI.WXPLOBBYPANEL.WXP_CURRENT_XP"
