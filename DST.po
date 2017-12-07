@@ -881,7 +881,7 @@ msgstr "\"Я не испытываю никакого удовольствия �
 #. STRINGS.SKIN_QUOTES.wickerbottom_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.wickerbottom_gladiator"
 msgid "\"Goodness gracious, it seems you've been annihilated.\""
-msgstr ""
+msgstr "\"Боже милостивый, кажется, вы были уничтожены.\""
 
 #. STRINGS.SKIN_QUOTES.willow_gladiator
 msgctxt "STRINGS.SKIN_QUOTES.willow_gladiator"
@@ -931,7 +931,7 @@ msgstr "Неразумно угнетать ядовитых пауков."
 #. STRINGS.SKIN_DESCRIPTIONS.wendy_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wendy_gladiator"
 msgid "Wendy's hidden ruthlessness needed only slight provocation to show itself."
-msgstr ""
+msgstr "Скрытая беспощадность Венди нуждалась лишь в небольшой провокации, чтобы проявить себя."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wes_gladiator
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wes_gladiator"
@@ -1166,7 +1166,7 @@ msgstr "Изменение параметров игры и интерфейса
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.DESC"
 msgid "Finish the Pit Pig round having taken less than 800 teamwide damage"
-msgstr "Законить раунд с Хряками из пекла, чтобы команда получила менее 800 урона"
+msgstr "Получите меньше 800 урона всей командой после раунда с Хряками из пекла"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons.TITLE"
@@ -1176,7 +1176,7 @@ msgstr "Вниз, но не рылом"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.DESC"
 msgid "Finish the Pit Pig round having taken less than 600 teamwide damage"
-msgstr "Закончить раунд с Хряками из пекла, чтобы команда получила менее 600 урона"
+msgstr "Получите меньше 600 урона всей командой после раунда с Хряками из пекла"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_boarons_hard.TITLE"
@@ -1186,7 +1186,7 @@ msgstr "Волосы на их подбородочках"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.DESC"
 msgid "Survive until the first wave of Scorpeons without any teammates dying"
-msgstr "Дожить без смерти товарищей по команде до первой волны Скорпехотинцев"
+msgstr "Дожить до волны со Скорпехотинцами без единой смерти команды"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_easy.TITLE"
@@ -1196,7 +1196,7 @@ msgstr "Не сегодня"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.DESC"
 msgid "Survive until the Grand Forge Boarrior is summoned without any teammates dying"
-msgstr "Дожить без смерти товарищей по команде до тех пор, пока не будет вызван Великий Боров-воин Горнила"
+msgstr "Дожить до появления Великого Борова-война Горнила без единой смерти команды."
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_hard.TITLE"
@@ -1206,7 +1206,7 @@ msgstr "Просто не умирай!"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.DESC"
 msgid "Survive until the first Boarilla arrives and defeat it without any teammates dying"
-msgstr "Дожить до тех пор, пока не придёт первая Свинорилла и победите её без смерти товарищей по команде"
+msgstr "Дожить до первой Свинориллы и убить её без единой смерти команды"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_nodeath_medium.TITLE"
@@ -1216,7 +1216,7 @@ msgstr "Тяжёлое убийство"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.DESC"
 msgid "Survive the first wave of Scorpeons without any teammates dying from acid"
-msgstr "Выжить в первой волне Скорпехотинцев без смертей товарищей по команде от яда"
+msgstr "Выжить в первой волне Скорпехотинцев без смертей от яда товарищей по команде"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_peghook.TITLE"
@@ -1226,7 +1226,7 @@ msgstr "Основное решение"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.DESC"
 msgid "Finish the Snortoise round without allowing Snortoises to perform more than 3 spin attacks"
-msgstr "Закончите раунд с Хрюкопахами, не давая им выполнить более трех крутящихся атак"
+msgstr "Закончите раунд с Хрюкопахами, не давая им использовать вращающуюся атаку больше, чем 3 раза"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus.TITLE"
@@ -1236,12 +1236,12 @@ msgstr "Не дайте колесу раскрутиться"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.DESC"
 msgid "Finish the Snortoise round without allowing Snortoises to perform any spin attacks"
-msgstr "Закончите раунд с Хрюкопахами, не давая им выполнять крутящиеся атаки"
+msgstr "Закончите раунд с Хрюкопахами, не давая им использовать вращающуюся атаку"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.encore_turtillus_hard.TITLE"
 msgid "Unspun Hero"
-msgstr "Недвижемый Герой"
+msgstr "Недвижимый Герой"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.SURVIVOR"
@@ -2633,11 +2633,6 @@ msgctxt "STRINGS.SKIN_NAMES.cane_ancient"
 msgid "Ancient Cane"
 msgstr "Древняя трость"
 
-#. STRINGS.SKIN_NAMES.torch_shadow
-msgctxt "STRINGS.SKIN_NAMES.torch_shadow"
-msgid "Tragic Torch"
-msgstr "Церемониальный факел"
-
 #. STRINGS.SKIN_NAMES.torch_shadow_alt
 msgctxt "STRINGS.SKIN_NAMES.torch_shadow_alt"
 msgid "Tragic Torch"
@@ -2673,15 +2668,10 @@ msgctxt "STRINGS.SKIN_DESCRIPTIONS.cane_ancient"
 msgid "To tread ancient paths, long forgotten."
 msgstr "Пройди древние, давно забытые пути."
 
-#. STRINGS.SKIN_DESCRIPTIONS.torch_shadow
-msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_shadow"
-msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "На первый взгляд этот факел кажется угрожающим, но его удерживание заставляет вас чувствовать себя грустно."
-
 #. STRINGS.SKIN_DESCRIPTIONS.torch_shadow_alt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_shadow_alt"
 msgid "At first glance this torch appears menacing, but holding it makes you feel quite sad."
-msgstr "На первый взгляд этот факел кажется угрожающим, но его удерживание заставляет вас чувствовать себя грустно."
+msgstr "С первого взгляда, этот факел кажется зловещим, а держащий его чувствует грусть."
 
 #. STRINGS.SKIN_DESCRIPTIONS.treasurechest_sacred
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.treasurechest_sacred"
@@ -3046,7 +3036,7 @@ msgstr "Ковка Победы"
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.DESC"
 msgid "Cast 3 amplified Life Blossoms within 60 seconds"
-msgstr "Используйте 3 усиленных умения Расцвет жизниь в течение 60 секунд"
+msgstr "Используйте 3 усиленных умения Расцвет жизни в течение 60 секунд"
 
 #. STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE
 msgctxt "STRINGS.UI.ACHIEVEMENTS.LAVAARENA.ACHIEVEMENT.wickerbottom_healing.TITLE"
@@ -3582,11 +3572,6 @@ msgstr "Молот Горнила"
 msgctxt "STRINGS.NAMES.SPEAR_GUNGNIR"
 msgid "Pith Pike"
 msgstr "Пит-Пайк"
-
-#. STRINGS.NAMES.SPEAR_WATHGRITHR
-msgctxt "STRINGS.NAMES.SPEAR_WATHGRITHR"
-msgid "Battle Spear"
-msgstr "Боевое копье"
 
 #. STRINGS.NAMES.FIREBALLSTAFF
 msgctxt "STRINGS.NAMES.FIREBALLSTAFF"
@@ -4441,7 +4426,7 @@ msgstr "Набор"
 msgctxt "STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT"
 msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
 msgstr "{doodad_count} Катушек ниток требуется для сплетения: {item_name}.\n\nТебе ещё нужно {doodad_net} Катушек ниток, чтобы сплести этот предмет.\nКатушки ниток можно получить расплетая другие предметы."
-Для сплетения {item_name}.\n\nВам ещё требуется {doodad_net} Катушек ниток.\nКатушки ниток можно получить разрывая другие вещи.
+
 #. STRINGS.UI.BARTERSCREEN.FAILED_TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.FAILED_TITLE"
 msgid "Connection failure"
@@ -89962,7 +89947,7 @@ msgstr "PvP:"
 #. STRINGS.UI.SERVERCREATIONSCREEN.RESUME
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.RESUME"
 msgid "Resume World"
-msgstr "Продолжить"
+msgstr "Продолжить игру"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SELECT_SLOT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SELECT_SLOT"
@@ -91783,13 +91768,3 @@ msgstr "Раскисший"
 msgctxt "STRINGS.WITHEREDITEM"
 msgid "Withered"
 msgstr "Иссушенный"
-
-#. STRINGS.CHARACTER_DESCRIPTIONS.winona
-msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.winona"
-msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Brings her own tools"
-msgstr "*Умелый строитель\n*Уворачивается от первого удара Тьмы\n*Пользуется своими инструментами"
-
-#. STRINGS.CHARACTER_QUOTES.winona
-msgctxt "STRINGS.CHARACTER_QUOTES.winona"
-msgid "\"Anything can be fixed with hard work and elbow grease.\""
-msgstr "\"Работа и труд все перетрут.\""
