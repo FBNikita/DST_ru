@@ -91783,3 +91783,13 @@ msgstr "Раскисший"
 msgctxt "STRINGS.WITHEREDITEM"
 msgid "Withered"
 msgstr "Иссушенный"
+
+#. STRINGS.CHARACTER_DESCRIPTIONS.winona
+msgctxt "STRINGS.CHARACTER_DESCRIPTIONS.winona"
+msgid "*Is a skilled builder\n*Gets one free hit from the dark\n*Brings her own tools"
+msgstr "*Умелый строитель\n*Уворачивается от первого удара Тьмы\n*Пользуется своими инструментами"
+
+#. STRINGS.CHARACTER_QUOTES.winona
+msgctxt "STRINGS.CHARACTER_QUOTES.winona"
+msgid "\"Anything can be fixed with hard work and elbow grease.\""
+msgstr "\"Работа и труд все перетрут.\""
