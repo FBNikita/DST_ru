@@ -1,11 +1,11 @@
-name = "Russian Language Pack"
-version = "4.3c3"
+name = "New Russian Language Pack"
+version = "0.1.2"
 local desc = {
-	en = "Russian localization of the game compiled from the user-suggested translations. The best translations are chosen via user voting. \n\nVersion: "..version,
-	ru = "\nРусификация игры, собранная на основе\nголосований за переводы реплик.\nВерсия: "..version}
+	en = "Russian localization \n\nVersion: "..version,
+	ru = "\nРусификация игры \nВерсия: "..version}
 description = language and desc[language] or desc["en"]
-author = "Some1"
-forumthread = "/files/file/879-russian-language-pack/"
+author = "Some1, alevastor, FBNikita, Graph"
+forumthread = ""
 api_version = 10
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
