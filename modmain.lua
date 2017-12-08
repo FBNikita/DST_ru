@@ -503,6 +503,20 @@ Assets = {
 	Asset("ATLAS",MODROOT.."images/rus_names_webber.xml"),
 	Asset("ATLAS",MODROOT.."images/rus_names_waxwell.xml"),
 	Asset("ATLAS",MODROOT.."images/rus_names_random.xml"),
+
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wickerbottom.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_willow.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wilson.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_woodie.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wes.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wolfgang.xml"), 
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wendy.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wathgrithr.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_webber.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_waxwell.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_random.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_wx78.xml"),
+	Asset("ATLAS",MODROOT.."images/rus_names_gold_winona.xml"),
 	}
 
 
@@ -1936,7 +1950,21 @@ if t.CurrentTranslationType~=mods.RussianLanguagePack.TranslationTypes.ChatOnly 
 			self.loadout_title:SetString(STRINGS.UI.LOBBYSCREEN.LOADOUT_TITLE..self.loadout_title:GetString():sub(1,-#STRINGS.UI.LOBBYSCREEN.LOADOUT_TITLE-1))
 		end
 	end)
-	
+
+	local function ChangeNamesTex(module)
+		AddClassPostConstruct(module, function(self)
+			local charlist = {winona=1,wx78=1,waxwell=1,wickerbottom=1,willow=1,wilson=1,woodie=1,wes=1,wolfgang=1,wendy=1,wathgrithr=1,webber=1,random=1}
+			local texnames = {}
+			for name in pairs(charlist) do texnames["names_gold_"..name] = name end
+			if self.heroname then HookUpImage(self.heroname, "images/", "images/rus_", texnames) end
+		end)
+	end
+	ChangeNamesTex("widgets/redux/ovalportrait")
+	ChangeNamesTex("widgets/redux/loadoutselect")
+	ChangeNamesTex("screens/redux/wardrobescreen")
+
+
+
 	--Подменяем русские имена в виджете внешнего вида персонажа
 	AddClassPostConstruct("widgets/playeravatarpopup", function(self)
 		local charlist = {wickerbottom=1,willow=1,wilson=1,woodie=1,wes=1,wolfgang=1,wendy=1,wathgrithr=1,webber=1,random=1}
@@ -2043,11 +2071,8 @@ if t.CurrentTranslationType~=mods.RussianLanguagePack.TranslationTypes.ChatOnly 
 		end)()
 	end
 
-
-
-
 	--Окно просмотра серверов, двигаем контролсы, исправляем надписи
-	AddClassPostConstruct("screens/serverlistingscreen", function(self)
+	AddClassPostConstruct("screens/redux/serverlistingscreen", function(self)
 		if self.nav_bar and self.nav_bar.title then
 			local w, h = self.nav_bar.title:GetRegionSize()
 			self.nav_bar.title:SetRegionSize(w+50, h)
