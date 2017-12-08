@@ -289,7 +289,7 @@ end)
 
 
   
---Добавление кнопки настроек меню модов при наведении на русский мод
+--[[Добавление кнопки настроек меню модов при наведении на русский мод
 local OldHasModConfigurationOptions = GLOBAL.KnownModIndex and GLOBAL.KnownModIndex.HasModConfigurationOptions
 if OldHasModConfigurationOptions then
 	function GLOBAL.KnownModIndex:HasModConfigurationOptions(modname, ...)
@@ -298,7 +298,7 @@ if OldHasModConfigurationOptions then
 		return res
 	end
 end
-
+]]
 --Переопределяем действие кнопки
 AddGlobalClassPostConstruct("screens/modsscreen", "ModsScreen", function(self)
 
