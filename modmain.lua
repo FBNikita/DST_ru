@@ -2784,6 +2784,10 @@ if t.CurrentTranslationType~=t.TranslationTypes.ChatOnly then --Выполняе
 			local w,h = self.headertext:GetRegionSize()
 			self.headertext:SetRegionSize(w,h+10)
 		end
+		local intention_options={{text='Дружеский'},{text='Командный'},{text='Агрессивный'},{text='Безумие'},}
+		for i, v in ipairs(intention_options) do
+			self.buttons[i]:SetText(intention_options[i].text)
+		end
 	end)
 
 
